@@ -171,15 +171,3 @@ python main.py
 - Replace Wikipedia with LLM APIs
 
 ---
-
-## 👩‍💻 Author
-
-**Usha**
-B.Tech – Computer Applications & Informatics
-Interested in NLP, AI, and Full-Stack Development
-
----
-
-## 📄 License
-
-This project is developed for **educational and learning purposes**.
