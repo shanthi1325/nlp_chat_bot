@@ -66,13 +66,14 @@ Linux / macOS
 ```bash
 source venv/bin/activate
 ```
-###Step 2️⃣: Install Dependencies
+### Step 2️⃣: Install Dependencies
 ```bash
 pip install nltk scikit-learn wikipedia
 uvicorn main:app --reload
 
 ```
-###Step 3️⃣: Run the Chatbot
+### Step 3️⃣: Run the Chatbot
 ```bash
 python main.py
 ```
+
